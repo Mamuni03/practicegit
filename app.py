@@ -5,5 +5,5 @@ def sum(a,b,c):
 def divi(a,b):
     return a/b
 
-def subs(a,b,c,d):
-    return a-b-c-d
+def subs(a,b,c,e):
+    return a-b-c-e
